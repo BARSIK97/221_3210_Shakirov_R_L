@@ -17,7 +17,7 @@ QString CredentialWidget::site() const
 {
     return ui->lblSite->text();
 }
-
+/*
 void CredentialWidget::on_btnLoginCopy_clicked()
 {
     qDebug() << "*** Login ID:" << m_id;
@@ -29,7 +29,7 @@ void CredentialWidget::on_btnPassCopy_clicked()
     qDebug() << "*** Password ID:" << m_id;
     emit decryptPassword(m_id);
 }
-
+*/
 CredentialWidget::~CredentialWidget()
 {
     delete ui;
