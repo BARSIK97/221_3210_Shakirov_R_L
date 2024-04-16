@@ -1,0 +1,21 @@
+﻿  Building 'passThrough' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\passThrough.inf
+  Stamping [Version] section with DriverVer=04/09/2024,20.40.14.307
+C:\Users\shaki\OneDrive\Рабочий стол\lab2 Crypto\passThrough.inf(8-8): warning 1324: [Version] section should specify PnpLockdown=1 to prevent external apps from modifying installed driver files.
+C:\Users\shaki\OneDrive\Рабочий стол\lab2 Crypto\passThrough.inf(74-74): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  passThrough.vcxproj -> C:\Users\shaki\OneDrive\Рабочий стол\lab2 Crypto\x64\Debug\passThrough.sys
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\shaki\OneDrive\Рабочий стол\lab2 Crypto\x64\Debug\passThrough\passthrough.cat
+  Done Adding Additional Store
+  Successfully signed: x64\Debug\passThrough\passthrough.cat
+  
